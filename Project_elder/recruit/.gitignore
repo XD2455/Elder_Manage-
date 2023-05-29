@@ -1,0 +1,45 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+/db
+*.iml
+/.idea
+/logs
+/cloud-tech
+/curve-warning-api/curve-warning-api-system/target
+/curve-warning-auth/target
+/curve-warning-gateway/target
+/curve-warning-visual/curve-warning-monitor/target
+/curve-warning-common/curve-warning-common-core/target
+/curve-warning-common/curve-warning-common-datascope/target
+/curve-warning-common/curve-warning-common-datasource/target
+/curve-warning-common/curve-warning-common-log/target
+/curve-warning-common/curve-warning-common-redis/target
+/curve-warning-common/curve-warning-common-security/target
+/curve-warning-common/curve-warning-common-swagger/target
+/curve-warning-modules/curve-warning-file/target
+/curve-warning-modules/curve-warning-gen/target
+/curve-warning-modules/curve-warning-job/target
+/curve-warning-modules/curve-warning-system/target
+/新建文本文档.txt
+/curve-warning-modules/curve-warning-station/target
+/curve-warning-modules/curve-warning-rtsp/target
+/curve-warning-modules/curve-warning-hik/target
+/curve-warning-modules/curve-warning-hik/src/main/java/com/yongan/hik/VideoDowload.java
+/curve-warning-modules/curve-warning-hik/src/main/java/com/yongan/hik/TextSearchFile.java
+/相关.txt
